@@ -1,90 +1,76 @@
-# Football Related Community Resources
+# Some of my personal projects
 
-## Coda Bonito
+## Football related community resources
+
+### [Coda Bonito](https://github.com/thecomeonman/CodaBonito)
 
 Some football analysis and visualisation helper functions
 
-https://github.com/thecomeonman/CodaBonito
-
 Methodology and example code included.
 
 
-## Making friends with tracking data
+### [Making friends with tracking data](https://github.com/thecomeonman/MakingFriendsWithTrackingData)
 
 A demo of some tracking data related helper functions
 
-https://github.com/thecomeonman/MakingFriendsWithTrackingData
-
 Methodology and example code included.
 
 
-# Football Models
+## Football models
 
-## Defensive interactions from tracking data
+### [Defensive interactions from tracking data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/)
 
 Building on top of the Friends of Tracking pitch control model to measure interactions betwee players of opposite teams
 
-https://github.com/thecomeonman/DefensiveInteractionsFromTrackingData
-
 Methodology and example code included.
 
 
-## xPo: a framework to value football actions
+### xPo: a framework to value football actions
 
 An event value measurement framework which won an honourable mention at the Seattle Sounders Analytics Competition 2020
 
-A post explaining how it works: https://github.com/thecomeonman/xPo
-A dashboard which you could use to analyse a team: https://github.com/thecomeonman/xPoDashboard
+- [A post explaining how it works](https://thecomeonman.github.io/xPo)
+- [A dashboard which you could use to analyse a team](https://thecomeonman.github.io/xPoDashboard)
 
 Methodology and example code included.
 
 
-## Player similarity / replacement based on aggregated match level data
+### [Player similarity / replacement based on aggregated match level data](https://thecomeonman.github.io/PlayerSimilarityFromAggregatedData)
 
 Includes an interactive visualisation to understand various aspects of the player better
 
-https://github.com/thecomeonman/PlayerSimilarityFromAggregatedData
 
-
-## Playing style similarity based on spatial data from passes
+### [Playing style similarity based on spatial data from passes](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers)
 
 Identifying similar player styles depending on the way players receive passes and make passes.
 
-https://github.com/thecomeonman/SpatialSimilaritiesBetweenPlayers
-
 Some other applications of this model:
-https://github.com/thecomeonman/SpursBenficaSimilarityByLiverpool
 
+- [Liverpool choosing to practice against Benfica for their UCL 2019 final against Spurs](https://thecomeonman.github.io/SpursBenficaSimilarityByLiverpool)
+- [Deriving player roles](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/PlayerRoles)
+- [Finding players in similar roles - detailed version](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/SimilarPlayers.html)
+- [Finding players in similar roles - short version](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/TeamHighLevel201819/ManCity.html)
 
-# Fantasy football 
+Methodology included.
 
-## Adhoc analysis of the 2013 FPL season
+## Fantasy football 
+
+### [Adhoc analysis of the 2013 FPL season](https://github.com/thecomeonman/FPL)
 
 A very unorganised set of posts from way back where I analyse fantasy football data.
 
-https://github.com/thecomeonman/FPL
+Methodology included.
 
+## Others
 
-# Others
-
-## Clustering using recursive division, 2018-19
+### [Clustering using recursive division](https://github.com/thecomeonman/CURD)
 
 We consider the problem of clustering categorical datasets, with a view to arrive at simple, easily interpretable clusters. We propose CURD, a recursive partitioning algorithm that expresses clusters as leaf nodes of a decision tree. 
 
-Demo: https://github.com/thecomeonman/CURD
+[Link to paper](https://www.researchgate.net/publication/338004913_CURD_A_recursive_partitioning_algorithm_for_clustering_categorical_datasets)
 
-Paper: https://www.researchgate.net/publication/338004913_CURD_A_recursive_partitioning_algorithm_for_clustering_categorical_datasets
+### [Scraping rental websites](https://github.com/thecomeonman/HouseLeadsAutomation)
 
-## Scraping rental websites, 2017
+### [ggTimeSeries, a ggplot library for time series visualisation in R](https://github.com/AtherEnergy/ggTimeSeries)
 
-https://github.com/thecomeonman/HouseLeadsAutomation
-
-Code included
-
-## ggTimeSeries, a ggplot library for time series visualisation in R
-
-https://github.com/AtherEnergy/ggTimeSeries
-
-## An R-Shiny based tool for Monte Carlo simulations
-
-https://github.com/AtherEnergy/Rhyhorn
+### [An R-Shiny based tool for Monte Carlo simulations](https://github.com/AtherEnergy/Rhyhorn) 
