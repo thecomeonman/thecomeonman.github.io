@@ -74,3 +74,5 @@ We consider the problem of clustering categorical datasets, with a view to arriv
 ### [ggTimeSeries, a ggplot library for time series visualisation in R](https://github.com/AtherEnergy/ggTimeSeries)
 
 ### [An R-Shiny based tool for Monte Carlo simulations](https://github.com/AtherEnergy/Rhyhorn) 
+
+### [An R-Shiny based tool for solving the warehouse problem](https://github.com/AtherEnergy/Pikachu) 
