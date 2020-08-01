@@ -4,12 +4,15 @@
 
 ### [Coda Bonito](https://github.com/thecomeonman/CodaBonito)
 
+![](../CodaBonito/README_files/figure-markdown_strict/fPlotSonar-1.png)
+
 Some football analysis and visualisation helper functions
 
 Methodology and example code included.
 
-
 ### [Making friends with tracking data](https://github.com/thecomeonman/MakingFriendsWithTrackingData)
+
+![](../MakingFriendsWithTrackingData/README_files/figure-markdown_strict/VoronoiAnnotated.gif)
 
 A demo of some tracking data related helper functions
 
