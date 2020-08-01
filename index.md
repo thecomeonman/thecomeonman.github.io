@@ -2,8 +2,6 @@
 
 
 ## Football related community resources
-<details>
-<summary>Click to expand!</summary>    
 
 ### [Coda Bonito](https://github.com/thecomeonman/CodaBonito)
 
@@ -22,12 +20,7 @@ A demo of some tracking data related helper functions
 
 Methodology and example code included.
 
-</details>
-
 ## Football models
-
-<details>
-<summary>Click to expand!</summary>    
 
 ### [Defensive interactions from tracking data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/)
 
@@ -73,11 +66,8 @@ Some other applications of this model:
 
 Methodology included.
 
-</details>
 
 ## Fantasy football 
-<details>
-<summary>Click to expand!</summary>    
 
 ### [Adhoc analysis of the 2013 FPL season](https://github.com/thecomeonman/FPL)
 
@@ -87,11 +77,7 @@ A very unorganised set of posts from way back where I analyse fantasy football d
 
 Methodology included.
 
-</details>
-
 ## Others
-<details>
-<summary>Click to expand!</summary>    
 
 ### [Clustering using recursive division](https://github.com/thecomeonman/CURD)
 
@@ -114,5 +100,3 @@ We consider the problem of clustering categorical datasets, with a view to arriv
 
 ### [An R-Shiny based tool for solving the warehouse problem](https://github.com/AtherEnergy/Pikachu) 
 ![](https://raw.githubusercontent.com/AtherEnergy/Pikachu/master/Screenshots/Visualisation2.png)
-
-</details>
