@@ -1,12 +1,18 @@
-# Some of my projects
+This page lists some projects I've enjoyed working on in the past few years.
 
+If you're interested in collaborating, using some of this code, or have an idea or project in mind that you'd like my help on, feel free to connect with me on mail - mail dot thecomeonman at gmail dot com, or find me on [Twitter](twitter.com/thecomeonman) or [Facebook](facebook.com/thecomeonman).
 
 ## Football related community resources
 
 ### [Coda Bonito](https://github.com/thecomeonman/CodaBonito)
 
-![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotSonar-1.png)
-![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fStripChart-1.png)
+Plot sonars  | Performance lanes | Pitch control
+:----------: | :---------------: | :-----------:
+![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotSonar-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fStripChart-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotPitchControl-1.png)
+
+xG build up | Football pitch | Radars 
+:---------: | :------------: | :----: 
+| ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png)
 
 Some football analysis and visualisation helper functions
 
@@ -66,7 +72,11 @@ Some other applications of this model:
 
 Methodology included.
 
+### [What Changed at Manchester City From 2016-17 to 2017-18](https://thecomeonman.github.io/MCI-2016-17-To-2017-18)
 
+![](https://raw.githubusercontent.com/thecomeonman/MCI-2016-17-to-2017-18/master/Assists/Assists_files/Assists_22_0.png)
+
+Copmaring some things that changed at Manchester City between their hohum 2016-17 season and multiple record breaking 2017-18 season.
 ## Fantasy football 
 
 ### [Adhoc analysis of the 2013 FPL season](https://github.com/thecomeonman/FPL)
