@@ -12,7 +12,7 @@ Plot sonars  | Performance lanes | Pitch control
 
 xG build up | Football pitch | Radars 
 :---------: | :------------: | :----: 
-| ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png)
+![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png)
 
 Some football analysis and visualisation helper functions
 
