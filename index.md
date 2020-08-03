@@ -31,7 +31,9 @@ Done in R. Methodology and example code included.
 
 ![](https://github.com/thecomeonman/DefensiveInteractionsFromTrackingData/blob/master/index_files/figure-html/Heatmaps-1.png?raw=true)
 
-Building on top of the Friends of Tracking pitch control model to measure interactions between players of opposite teams. I take some situations and demonstrate how this measure could help understand what the defensive marking relations between the players of the opposite teams where, which player missed their defensive responsibility in a lead up to a shot, which player needs to contribute more defensively during the game etc.
+Building on top of the Friends of Tracking pitch control model to measure interactions between players of opposite teams. I take some situations and demonstrate how this measure could help understand what the defensive marking relations between the players of the opposite teams where, which player missed their defensive responsibility in a lead up to a shot, which player needs to contribute more defensively during the game etc. 
+
+I apply this on the FoT/Metrica public tracking data and one of the observations is how player 20 ( anonymised data, so that's all I know about this player ) may have needed to do more defensively.
 
 Done in R. Methodology and code included.
 
@@ -46,6 +48,8 @@ This concept and the dashboard won an honourable mention at the Seattle Sounders
 - [A post explaining how it works](https://thecomeonman.github.io/xPo) with some EPL teams and players analysed
 - [A dashboard which you could use to analyse a team](https://thecomeonman.github.io/xPoDashboard) built on data from Barcelona's 2008-09 season data from Statsbomb
 
+Two of the observations from the dashboard is Barcelona's preference to attack from the right and Dani Alves' strong contributions to their attack. 
+
 Done in R, D3js. Methodology and sample code included.
 
 ### [Player similarity / replacement based on aggregated match level data](https://thecomeonman.github.io/PlayerSimilarityFromAggregatedData)
@@ -53,6 +57,8 @@ Done in R, D3js. Methodology and sample code included.
 ![](./PlayerSimilarityFromAggregatedData.gif)
 
 Built a model to identify players with similar or better profiles. Built an interactive visualisation around it to understand various aspects of the player better.
+
+I analyse multiple players amongst the transfer rumours at the point and anecdotally validate the model with some of the results that show up, eg. Fernandinho's list has pretty much every player whom Guardiola has either played in the same position earlier or was rumoured to be interested in buying - Alcantara, Jorginho, Busquets, and Rodri, amongst others who have similar playing styles.
 
 Done in R, D3js. D3js code included.
 
@@ -62,9 +68,9 @@ Done in R, D3js. D3js code included.
 
 Built a model to identify similar player or team styles depending on the way passes are made and received.
 
-Some other applications of this model:
+Amongst other things, I used it to [evaluate whether Liverpool choosing to practice against Benfica for their UCL 2019 final against Spurs made sense](https://thecomeonman.github.io/SpursBenficaSimilarityByLiverpool). The same method can be extended to compare and identify similar playing styles for any other team.
 
-- [Liverpool choosing to practice against Benfica for their UCL 2019 final against Spurs](https://thecomeonman.github.io/SpursBenficaSimilarityByLiverpool)
+Some other applications of this model:
 - [Deriving player roles](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/PlayerRoles)
 - [Finding players in similar roles - detailed version](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/SimilarPlayers.html)
 - [Finding players in similar roles - short version](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/TeamHighLevel201819/ManCity.html)
@@ -75,7 +81,7 @@ Done in R. Methodology included.
 
 ![](https://raw.githubusercontent.com/thecomeonman/MCI-2016-17-to-2017-18/master/Assists/Assists_files/Assists_22_0.png)
 
-Copmaring some things that changed at Manchester City between their hohum 2016-17 season and multiple record breaking 2017-18 season.
+Compared some things that changed at Manchester City between their hohum 2016-17 season and multiple record breaking 2017-18 season.
 
 Done in Python. Methodology included.
 
@@ -103,7 +109,7 @@ Done in R. Methodology and code included.
 
 ![](https://raw.githubusercontent.com/thecomeonman/HouseLeadsAutomation/master/Screenshots/SheetExample.png)
 
-A script to scrape data from multiple house rental websites and compile them in one place on a Google sheet.
+A script to scrape data from multiple house rental websites and compile them in one place on a Google sheet. Saves you time on hunting across multiple websites.
 
 Done in R. Methodology and code included.
 
@@ -119,7 +125,7 @@ Done in R. Methodology and code included.
 
 ![](https://raw.githubusercontent.com/AtherEnergy/Rhyhorn/master/Screenshots/060_Output_Variables.png)
 
-A very flexible tool which can be used in a browser to compile your monte carlo simulations.
+A very flexible tool which can be used in a browser to create and run your own monte carlo simulations.
 
 Done in R. Methodology and code included.
 
