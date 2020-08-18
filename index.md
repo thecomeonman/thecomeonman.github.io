@@ -1,6 +1,8 @@
 This page lists some projects I've enjoyed working on in the past few years.
 
-If you're interested in collaborating, using some of this code, or have an idea or project in mind that you'd like my help on, feel free to connect with me on mail - mail dot thecomeonman at gmail dot com, or find me on [Twitter](twitter.com/thecomeonman) or [Facebook](facebook.com/thecomeonman).
+I'm a data scientist and in my own time I enjoy working on data science related projects in football ( soccer. ) I mostly use R and sometimes D3js and Python, along with some other tools.
+
+I'd love to take up some projects in professional football! If you're interested in collaborating, using some of this code, or have an idea or project in mind that you'd like my help on, feel free to connect with me on mail - mail dot thecomeonman at gmail dot com, or find me on [Twitter](twitter.com/thecomeonman) or [Facebook](facebook.com/thecomeonman). Interesting non-football data science projects are also welcome!
 
 ## Football related community resources
 
@@ -25,7 +27,11 @@ available in my [CodaBonito R library](https://github.com/thecomeonman/CodaBonit
 
 Done in R. Methodology and example code included.
 
-## Football models
+## Football models and visualisations
+
+### [Player profile visualisations](https://github.com/thecomeonman/PlayerProfileVizes)
+
+![](https://raw.githubusercontent.com/thecomeonman/PlayerProfileVizes/master/2020-08-18_CityWingers_Sane_Mahrez_Torres/Torres.png)
 
 ### [Defensive interactions from tracking data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/)
 
