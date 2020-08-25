@@ -29,7 +29,7 @@ Done in R. Methodology and example code included.
 
 ## Football models and visualisations
 
-### [3D objection manipulation in a ggplot friendly manner]
+### ggplot friendly 3D manipulations
 
 ![](./ThiagoLastBayernGoalInvolvement.gif)
     
