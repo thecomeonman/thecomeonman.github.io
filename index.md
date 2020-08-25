@@ -29,6 +29,10 @@ Done in R. Methodology and example code included.
 
 ## Football models and visualisations
 
+### [3D objection manipulation in a ggplot friendly manner]
+
+![](./ThiagoLastBayernGoalInvolvement.gif)
+    
 ### [Player profile visualisations](https://github.com/thecomeonman/PlayerProfileVizes)
 
 ![](https://raw.githubusercontent.com/thecomeonman/PlayerProfileVizes/master/2020-08-18_CityWingers_Sane_Mahrez_Torres/Torres.png)
