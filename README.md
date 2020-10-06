@@ -32,6 +32,8 @@ Done in R. Methodology and example code included.
 ### ggplot friendly 3D manipulations
 
 ![](./ThiagoLastBayernGoalInvolvement.gif)
+
+[Another video of Thiago's passing](https://twitter.com/thecomeonman/status/1310564531664429057)
     
 ### [Player profile visualisations](https://github.com/thecomeonman/PlayerProfileVizes)
 
@@ -68,7 +70,7 @@ Done in R, D3js. Methodology and sample code included.
 
 Built a model to identify players with similar or better profiles. Built an interactive visualisation around it to understand various aspects of the player better.
 
-I analyse multiple players amongst the transfer rumours at the point and anecdotally validate the model with some of the results that show up, eg. Fernandinho's list has pretty much every player whom Guardiola has either played in the same position earlier or was rumoured to be interested in buying - Alcantara, Jorginho, Busquets, and Rodri, amongst others who have similar playing styles.
+In the linked post above, I analyse multiple players amongst the transfer rumours at the point and anecdotally validate the model with some of the results that show up, eg. Fernandinho's list has pretty much every player whom Guardiola has either played in the same position earlier or was rumoured to be interested in buying - Alcantara, Jorginho, Busquets, and Rodri, amongst others who have similar playing styles. I keep updating the model and some of the most recent runs are on (this thread for some transfers during the summer transfer window of 2020)[https://twitter.com/thecomeonman/status/1306654311661760512]
 
 Done in R, D3js. D3js code included.
 
