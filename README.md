@@ -135,7 +135,7 @@ Done in R. Methodology and code included.
 
 ### [An R-Shiny based tool for Monte Carlo simulations](https://github.com/AtherEnergy/Rhyhorn) 
 
-![](https://raw.githubusercontent.com/AtherEnergy/Rhyhorn/master/Screenshots/060_Output_Variables.png)
+![](https://raw.githubusercontent.com/AtherEnergy/Montek/master/Screenshots/060_Output_Variables.png)
 
 A very flexible tool which can be used in a browser to create and run your own monte carlo simulations.
 
