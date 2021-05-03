@@ -18,6 +18,16 @@ xG build up | Football pitch | Radars
 
 An R library that has some football analysis and visualisation helper functions.
 
+### [POV - a ggplot friendly 3D manipulation library](https://github.com/thecomeonman/POV)
+
+An R library with low level code which can be used to generate visuals like this -
+
+![](./ThiagoLastBayernGoalInvolvement.gif)
+
+[Another video of Thiago's passing](https://twitter.com/thecomeonman/status/1310564531664429057)
+
+[Aguero's EPL career](https://twitter.com/thecomeonman/status/1379404586973298691)
+
 ### [Making friends with tracking data](https://github.com/thecomeonman/MakingFriendsWithTrackingData)
 
 ![](https://raw.githubusercontent.com/thecomeonman/MakingFriendsWithTrackingData/master/README_files/figure-markdown_strict/VoronoiAnnotated.gif)
@@ -29,27 +39,27 @@ Done in R. Methodology and example code included.
 
 ## Football models and visualisations
 
-### [POV - a ggplot friendly 3D manipulation library](https://github.com/thecomeonman/POV)
+### [Quantifying defensive contribution from tracking data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/)
 
-An R library with low level code which can be used to generate visuals like this -
+![](./pNIVMapsMarking.png)
 
-![](./ThiagoLastBayernGoalInvolvement.gif)
+A model to quantify the impact of a player on preventing goals, passes, and carries from happening.
 
-[Another video of Thiago's passing](https://twitter.com/thecomeonman/status/1310564531664429057)
+[Stats Preform Pro Forum 2021 Talk](https://vimeo.com/533973203)
+
+[Article in SpaceSpaceSpace](https://spacespacespaceletter.com/whats-tackles-defense-is-about-denying-space/)
+
+[Article in Analytics FC Blog](http://analyticsfc.co.uk/blog/2021/04/26/quantifying-defence-pass-prevention-and-shot-prevention/)
+
+### [xG Infographics](https://github.com/thecomeonman/xGInfographics)
+
+Countering the over-simplified xG based interpretations with a detailed infographic.
+
+![](https://raw.githubusercontent.com/thecomeonman/xGInfographics/master/ManchesterCity_Leeds_14740.png)
 
 ### [Player profile visualisations](https://github.com/thecomeonman/PlayerProfileVizes)
 
 ![](https://raw.githubusercontent.com/thecomeonman/PlayerProfileVizes/master/2020-08-18_CityWingers_Sane_Mahrez_Torres/Torres.png)
-
-### [Defensive interactions from tracking data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/)
-
-![](https://github.com/thecomeonman/DefensiveInteractionsFromTrackingData/blob/master/index_files/figure-html/Heatmaps-1.png?raw=true)
-
-Building on top of the Friends of Tracking pitch control model to measure interactions between players of opposite teams. I take some situations and demonstrate how this measure could help understand what the defensive marking relations between the players of the opposite teams where, which player missed their defensive responsibility in a lead up to a shot, which player needs to contribute more defensively during the game etc. 
-
-I apply this on the FoT/Metrica public tracking data and one of the observations is how player 20 ( anonymised data, so that's all I know about this player ) may have needed to do more defensively.
-
-Done in R. Methodology and code included.
 
 ### xPo: a framework to value football actions
 
