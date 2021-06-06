@@ -53,11 +53,13 @@ A model to quantify the impact of a player on preventing goals, passes, and carr
 
 [Article in Analytics FC Blog](http://analyticsfc.co.uk/blog/2021/04/26/quantifying-defence-pass-prevention-and-shot-prevention/)
 
-### [xG Infographics](https://github.com/thecomeonman/xGInfographics)
+### [Moving from outcome based models to intent based models](https://thecomeonman.github.io/IntentVsOutcome/)
 
-Countering the over-simplified xG based interpretations with a detailed infographic.
+![](https://thecomeonman.github.io/IntentVsOutcome/README_files/figure-markdown_strict/IntentIllustrationDifferencePC-1.png)
 
-![](https://raw.githubusercontent.com/thecomeonman/xGInfographics/master/ManchesterCity_Leeds_14740.png)
+Pass related models, such as pass success probability and pitch control, usually implicitly assume that a pass would precisely reach a target coordinate. However, we need to account for the fact that sometimes, and probably very often, the player may intend to pass to a particular location but may pass somewhere in the neighbourhood of that location and not exactly at that location.
+
+Done in R. Methodology included.
 
 ### [Player profile visualisations](https://github.com/thecomeonman/PlayerProfileVizes)
 
@@ -102,6 +104,14 @@ Some other applications of this model:
 - [Finding players in similar roles - short version](https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/TeamHighLevel201819/ManCity.html)
 
 Done in R. Methodology included.
+
+### [xG Infographics](https://github.com/thecomeonman/xGInfographics)
+
+Countering the over-simplified xG based interpretations with a detailed infographic.
+
+![](https://raw.githubusercontent.com/thecomeonman/xGInfographics/master/ManchesterCity_Leeds_14740.png)
+
+Done in R.
 
 ### [What Changed at Manchester City From 2016-17 to 2017-18](https://thecomeonman.github.io/MCI-2016-17-To-2017-18)
 
