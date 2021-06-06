@@ -4,39 +4,6 @@ I'm a data scientist and in my own time I enjoy working on data science related 
 
 I'd love to take up some projects in professional football! If you're interested in collaborating, using some of this code, or have an idea or project in mind that you'd like my help on, feel free to connect with me on mail - mail dot thecomeonman at gmail dot com, or find me on [Twitter](twitter.com/thecomeonman) or e-mail me at mail dot thecomeonman at gmail dot com. Interesting non-football data science projects are also welcome!
 
-## Football related community resources
-
-### [Coda Bonito](https://github.com/thecomeonman/CodaBonito)
-
-Plot sonars  | Performance lanes | Pitch control
-:----------: | :---------------: | :-----------:
-![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotSonar-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fStripChart-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotPitchControl-1.png)
-
-xG build up | Football pitch | Radars 
-:---------: | :------------: | :----: 
-![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png)
-
-An R library that has some football analysis and visualisation helper functions.
-
-### [POV - a ggplot friendly 3D manipulation library](https://github.com/thecomeonman/POV)
-
-An R library with low level code which can be used to generate visuals like this -
-
-![](./ThiagoLastBayernGoalInvolvement.gif)
-
-[Another video of Thiago's passing](https://twitter.com/thecomeonman/status/1310564531664429057)
-
-[Aguero's EPL career](https://twitter.com/thecomeonman/status/1379404586973298691)
-
-### [Making friends with tracking data](https://github.com/thecomeonman/MakingFriendsWithTrackingData)
-
-![](https://raw.githubusercontent.com/thecomeonman/MakingFriendsWithTrackingData/master/README_files/figure-markdown_strict/VoronoiAnnotated.gif)
-
-A demo of some tracking data related helper functions. Most of the underlying code is 
-available in my [CodaBonito R library](https://github.com/thecomeonman/CodaBonito).
-
-Done in R. Methodology and example code included.
-
 ## Football models and visualisations
 
 ### [Quantifying defensive contribution from tracking data](https://thecomeonman.github.io/DefensiveInteractionsFromTrackingData/)
@@ -128,6 +95,39 @@ Done in Python. Methodology included.
 A very unorganised set of posts from way back where I analyse fantasy football data.
 
 Done in R. Methodology included.
+
+## Football related community resources
+
+### [Coda Bonito](https://github.com/thecomeonman/CodaBonito)
+
+Plot sonars  | Performance lanes | Pitch control
+:----------: | :---------------: | :-----------:
+![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotSonar-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fStripChart-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotPitchControl-1.png)
+
+xG build up | Football pitch | Radars 
+:---------: | :------------: | :----: 
+![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png) | ![](https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png)
+
+An R library that has some football analysis and visualisation helper functions.
+
+### [POV - a ggplot friendly 3D manipulation library](https://github.com/thecomeonman/POV)
+
+An R library with low level code which can be used to generate visuals like this -
+
+![](./ThiagoLastBayernGoalInvolvement.gif)
+
+[Another video of Thiago's passing](https://twitter.com/thecomeonman/status/1310564531664429057)
+
+[Aguero's EPL career](https://twitter.com/thecomeonman/status/1379404586973298691)
+
+### [Making friends with tracking data](https://github.com/thecomeonman/MakingFriendsWithTrackingData)
+
+![](https://raw.githubusercontent.com/thecomeonman/MakingFriendsWithTrackingData/master/README_files/figure-markdown_strict/VoronoiAnnotated.gif)
+
+A demo of some tracking data related helper functions. Most of the underlying code is 
+available in my [CodaBonito R library](https://github.com/thecomeonman/CodaBonito).
+
+Done in R. Methodology and example code included.
 
 ## Others
 
