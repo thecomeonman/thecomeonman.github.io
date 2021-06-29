@@ -28,6 +28,14 @@ Pass related models, such as pass success probability and pitch control, usually
 
 Done in R. Methodology included.
 
+### [Predicting Transfer Successes using VAEP](https://thecomeonman.github.io/PredictingTransferSuccesses/)
+
+![](https://raw.githubusercontent.com/thecomeonman/PredictingTransferSuccesses/master/README_files/figure-markdown_strict/graph_viz_4513451345-1.png)
+
+Trying to predict the change in VAEP per minute, as a proxy for performance, based on the leagues, teams, and some other factors.
+
+Done in R. Methodology included.
+
 ### [Player profile visualisations](https://github.com/thecomeonman/PlayerProfileVizes)
 
 ![](https://raw.githubusercontent.com/thecomeonman/PlayerProfileVizes/master/2020-08-18_CityWingers_Sane_Mahrez_Torres/Torres.png)
