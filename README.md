@@ -167,7 +167,7 @@ Done in R. Methodology and code included.
 
 ### [An R-Shiny based tool for Monte Carlo simulations](https://github.com/AtherEnergy/Rhyhorn) 
 
-![](https://raw.githubusercontent.com/AtherEnergy/Montek/master/Screenshots/060_Output_Variables.png)
+![](https://raw.githubusercontent.com/thecomeonman/Montek/master/Screenshots/060_Output_Variables.png)
 
 A very flexible tool which can be used in a browser to create and run your own monte carlo simulations.
 
@@ -175,7 +175,7 @@ Done in R. Methodology and code included.
 
 ### [An R-Shiny based tool for solving the warehouse problem](https://github.com/AtherEnergy/RAO) 
 
-![](https://raw.githubusercontent.com/AtherEnergy/RAO/master/Screenshots/Visualisation2.png)
+![](https://raw.githubusercontent.com/thecomeonman/RAO/master/Screenshots/Visualisation2.png)
 
 A tool which can be used in a browser to maximise the accessibility of charging stations with the minimum number of charging stations over a given road network. You can use it for maximising the accessibility of anything else though, doesn't have to be just charging stations.
 
