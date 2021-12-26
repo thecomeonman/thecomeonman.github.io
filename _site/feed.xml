@@ -3,10 +3,10 @@
   <channel>
     <title>The Come On Man</title>
     <description>Things that keep my busy</description>
-    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
-    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Dec 2021 22:32:30 +0530</pubDate>
-    <lastBuildDate>Sun, 26 Dec 2021 22:32:30 +0530</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Dec 2021 22:50:34 +0530</pubDate>
+    <lastBuildDate>Sun, 26 Dec 2021 22:50:34 +0530</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;&lt;a href=&quot;thecomeonman.github.io/PressRelatedMeasurements/&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Sep 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/measuring-press-resistance/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/measuring-press-resistance/</guid>
+        <link>http://0.0.0.0:4000/measuring-press-resistance/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/measuring-press-resistance/</guid>
         
         <category>R</category>
         
@@ -35,8 +35,8 @@
 &lt;p&gt;&lt;a href=&quot;https://thecomeonman.github.io/IntentVsOutcome/&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/predicting-transfer-successes/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/predicting-transfer-successes/</guid>
+        <link>http://0.0.0.0:4000/predicting-transfer-successes/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/predicting-transfer-successes/</guid>
         
         <category>R</category>
         
@@ -54,8 +54,8 @@
 &lt;p&gt;&lt;a href=&quot;https://thecomeonman.github.io/IntentVsOutcome/&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/outcome-vs-intent/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/outcome-vs-intent/</guid>
+        <link>http://0.0.0.0:4000/outcome-vs-intent/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/outcome-vs-intent/</guid>
         
         <category>R</category>
         
@@ -77,8 +77,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/thecomeonman/xGInfographics&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/xGInfographics/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/xGInfographics/</guid>
+        <link>http://0.0.0.0:4000/xGInfographics/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/xGInfographics/</guid>
         
         <category>R</category>
         
@@ -100,8 +100,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/thecomeonman/POV&quot;&gt;Repository here with code&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/pov/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/pov/</guid>
+        <link>http://0.0.0.0:4000/pov/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/pov/</guid>
         
         <category>R</category>
         
@@ -153,8 +153,8 @@
 &lt;p&gt;&lt;a href=&quot;https://github.com/thecomeonman/CodaBonito&quot;&gt;Repository here with code&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/coda-bonito/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/coda-bonito/</guid>
+        <link>http://0.0.0.0:4000/coda-bonito/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/coda-bonito/</guid>
         
         <category>R</category>
         
@@ -170,8 +170,8 @@
         <description>&lt;p&gt;Data dense scouting report of players&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Aug 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/player-profile-viz/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/player-profile-viz/</guid>
+        <link>http://0.0.0.0:4000/player-profile-viz/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/player-profile-viz/</guid>
         
         <category>R</category>
         
@@ -194,8 +194,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 01 May 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/xPo/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/xPo/</guid>
+        <link>http://0.0.0.0:4000/xPo/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/xPo/</guid>
         
         <category>R</category>
         
@@ -220,8 +220,8 @@ in which I analyse multiple players amongst the transfer rumours at the point an
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/Replacing-Suarez-and-Messi/master/Messi_Dybala_1920_1920.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 May 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/player-similarity-from-aggregated-data/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/player-similarity-from-aggregated-data/</guid>
+        <link>http://0.0.0.0:4000/player-similarity-from-aggregated-data/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/player-similarity-from-aggregated-data/</guid>
         
         <category>R</category>
         
@@ -247,8 +247,8 @@ in which I analyse multiple players amongst the transfer rumours at the point an
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 15 Feb 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/defensive-interactions/</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/defensive-interactions/</guid>
+        <link>http://0.0.0.0:4000/defensive-interactions/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/defensive-interactions/</guid>
         
         <category>R</category>
         

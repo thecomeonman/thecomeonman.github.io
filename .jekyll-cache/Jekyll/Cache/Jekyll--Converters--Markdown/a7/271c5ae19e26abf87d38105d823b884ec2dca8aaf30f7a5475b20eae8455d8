@@ -1,0 +1,38 @@
+I"3<p>An R library that has some football analysis and visualisation helper functions. Some examples below -</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Plot sonars</th>
+      <th style="text-align: center">Performance lanes</th>
+      <th style="text-align: center">Pitch control</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotSonar-1.png" alt="" /></td>
+      <td style="text-align: center"><img src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fStripChart-1.png" alt="" /></td>
+      <td style="text-align: center"><img src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotPitchControl-1.png" alt="" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">xG build up</th>
+      <th style="text-align: center">Football pitch</th>
+      <th style="text-align: center">Radars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png" alt="" /></td>
+      <td style="text-align: center"><img src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png" alt="" /></td>
+      <td style="text-align: center"><img src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png" alt="" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://github.com/thecomeonman/CodaBonito">Repository here with code</a></p>
+:ET

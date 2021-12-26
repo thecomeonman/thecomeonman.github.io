@@ -1,0 +1,4 @@
+I"Þ<p>Pass related models, such as pass success probability and pitch control, usually implicitly assume that a pass would precisely reach a target coordinate. However, we need to account for the fact that sometimes, and probably very often, the player may intend to pass to a particular location but may pass somewhere in the neighbourhood of that location and not exactly at that location.</p>
+
+<p><a href="https://thecomeonman.github.io/IntentVsOutcome/">Full post here</a></p>
+:ET

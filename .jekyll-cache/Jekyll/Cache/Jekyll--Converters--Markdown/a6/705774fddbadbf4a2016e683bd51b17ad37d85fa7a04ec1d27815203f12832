@@ -1,0 +1,383 @@
+I"h%
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="card h-100">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <a class="text-light" href="/pov/">POV</a>
+                    
+                </h2>
+                <h4 class="card-text">An R library with some high and low level functions for 3D geometry in a ggplot2 compatible fashion</h4>
+                <div class="maxthumb">
+                    <a href="/pov/">
+                        
+    
+                            
+                                <img class="img-fluid" src="/assets/images/posts/pov/ThiagoLastBayernGoalInvolvement.gif" alt="POV" /> 
+                            
+    
+                        
+                    </a>
+    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="card h-100">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <a class="text-light" href="/defensive-interactions/">Measuring Defensive Interactions</a>
+                    
+                </h2>
+                <h4 class="card-text">A model to quantify the impact of a player on preventing goals, passes, and carries from happening.</h4>
+                <div class="maxthumb">
+                    <a href="/defensive-interactions/">
+                        
+    
+                            
+                                <img class="img-fluid" src="/assets/images/posts/defensive-interactions/pNIVMapsMarking.png" alt="Measuring Defensive Interactions" /> 
+                            
+    
+                        
+                    </a>
+    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+        
+
+    
+
+        
+
+            <!-- begin post -->
+
+<div class="col-md-6 mb-30px">
+    <div class="listfeaturedtag h-100">
+        <div class="card h-100">
+            <div class="card-body">
+                <h2 class="card-title">
+                    <a class="text-light" href="/rao/">RAO - Road Accessibility Optimiser</a>
+                    
+                </h2>
+                <h4 class="card-text">An R-Shiny based tool for solving the warehouse problem</h4>
+                <div class="maxthumb">
+                    <a href="/rao/">
+                        
+    
+                            
+                                <img class="img-fluid" src="https://raw.githubusercontent.com/thecomeonman/RAO/master/Screenshots/Visualisation2.png" alt="RAO - Road Accessibility Optimiser" /> 
+                            
+    
+                        
+                    </a>
+    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    
+
+    </div>
+</section>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Projects</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-light" href="/measuring-press-resistance/">Measuring Press Resistance</a>
+                
+            </h2>
+            <h4 class="card-text">Measuring successful execution under pressure and comparing it to a baseline</h4>
+            <div class="maxthumb">
+                <a href="/measuring-press-resistance/">
+                    
+
+                        
+                            <img class="img-fluid" src="https://raw.githubusercontent.com/thecomeonman/PressRelatedMeasurements/main/README_files/figure-markdown_strict/TopPlayersRank-2.png" alt="Measuring Press Resistance" /> 
+                        
+
+                    
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-light" href="/predicting-transfer-successes/">Predicting Transfer Successes</a>
+                
+            </h2>
+            <h4 class="card-text">Trying to predict successful transfers using VAEP</h4>
+            <div class="maxthumb">
+                <a href="/predicting-transfer-successes/">
+                    
+
+                        
+                            <img class="img-fluid" src="https://raw.githubusercontent.com/thecomeonman/PredictingTransferSuccesses/master/README_files/figure-markdown_strict/graph_viz_4513451345-1.png" alt="Predicting Transfer Successes" /> 
+                        
+
+                    
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-light" href="/outcome-vs-intent/">Intent vs. Outcome Based Models</a>
+                
+            </h2>
+            <h4 class="card-text">Most models seem to be outcome based. What changes if try to incorporate intent?</h4>
+            <div class="maxthumb">
+                <a href="/outcome-vs-intent/">
+                    
+
+                        
+                            <img class="img-fluid" src="https://thecomeonman.github.io/IntentVsOutcome/README_files/figure-markdown_strict/IntentIllustrationDifferencePC-1.png" alt="Intent vs. Outcome Based Models" /> 
+                        
+
+                    
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-light" href="/xGInfographics/">xG Based Infographics</a>
+                
+            </h2>
+            <h4 class="card-text">Understanding how to use xG instead of just summing it up</h4>
+            <div class="maxthumb">
+                <a href="/xGInfographics/">
+                    
+
+                        
+                            <img class="img-fluid" src="https://raw.githubusercontent.com/thecomeonman/xGInfographics/master/ManchesterCity_Leeds_14740.png" alt="xG Based Infographics" /> 
+                        
+
+                    
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-light" href="/coda-bonito/">Coda Bonito</a>
+                
+            </h2>
+            <h4 class="card-text">An R library for football analytics which offers visualisations, simple models, and other things</h4>
+            <div class="maxthumb">
+                <a href="/coda-bonito/">
+                    
+
+                        
+                            <img class="img-fluid" src="https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png" alt="Coda Bonito" /> 
+                        
+
+                    
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+        <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-light" href="/player-profile-viz/">Player Profile Visualisation</a>
+                
+            </h2>
+            <h4 class="card-text">Data dense scouting report of players</h4>
+            <div class="maxthumb">
+                <a href="/player-profile-viz/">
+                    
+
+                        
+                            <img class="img-fluid" src="https://github.com/thecomeonman/PlayerProfileVizes/blob/master/2020-08-18_CityWingers_Sane_Mahrez_Torres/Mahrez.png?raw=true" alt="Player Profile Visualisation" /> 
+                        
+
+                    
+                </a>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+        
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    
+<div class="pagination">
+  
+    <span>&laquo; Prev</span>
+  
+
+  
+    
+      <span class="ml-1 mr-1">1</span>
+    
+  
+    
+      <a class="ml-1 mr-1" href="/page2/">2</a>
+    
+  
+
+  
+    <a class="ml-1 mr-1" href="/page2/">Next &raquo;</a>
+  
+</div>
+
+</span>
+</div>
+
+:ET

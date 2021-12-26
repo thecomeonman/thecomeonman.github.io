@@ -1,0 +1,9 @@
+I"9<p>An framework to quantify the contributions of players who aren’t the ones registering assists or scoring goals.</p>
+
+<p>This concept and the dashboard won an honourable mention at the Seattle Sounders Analytics Competition 2020.</p>
+
+<ul>
+  <li><a href="https://thecomeonman.github.io/xPo">A post explaining how it works</a> with some EPL teams and players analysed</li>
+  <li><a href="https://thecomeonman.github.io/xPoDashboard">A dashboard which you could use to analyse a team</a> built on data from Barcelona’s 2008-09 season data from Statsbomb</li>
+</ul>
+:ET
