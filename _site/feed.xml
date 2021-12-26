@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Come On Man</title>
+    <description>Things that keep my busy</description>
+    <link>http://localhost:4000/mediumish-theme-jekyll/</link>
+    <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Dec 2021 22:32:30 +0530</pubDate>
+    <lastBuildDate>Sun, 26 Dec 2021 22:32:30 +0530</lastBuildDate>
+    <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Measuring Press Resistance</title>
+        <description>&lt;p&gt;We build a model to predict how likely an average player is to successfully perform the action of their choice. Think of it as having an xWhateverTheyAreDoing model. Next we use it for the actions of these players when they were under pressure. By comparing how often specific players executed an action successfully compared to the model estimated probabilities of them executing their actions successfully, we can find out players that are good at escaping pressures, and so on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;thecomeonman.github.io/PressRelatedMeasurements/&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/measuring-press-resistance/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/measuring-press-resistance/</guid>
+        
+        <category>R</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+      <item>
+        <title>Predicting Transfer Successes</title>
+        <description>&lt;p&gt;Using graph models and regreesion to try and predict the change in VAEP per minute, as a proxy for performance, based on the leagues, teams, and some other factors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thecomeonman.github.io/IntentVsOutcome/&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/predicting-transfer-successes/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/predicting-transfer-successes/</guid>
+        
+        <category>R</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+      <item>
+        <title>Intent vs. Outcome Based Models</title>
+        <description>&lt;p&gt;Pass related models, such as pass success probability and pitch control, usually implicitly assume that a pass would precisely reach a target coordinate. However, we need to account for the fact that sometimes, and probably very often, the player may intend to pass to a particular location but may pass somewhere in the neighbourhood of that location and not exactly at that location.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thecomeonman.github.io/IntentVsOutcome/&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/outcome-vs-intent/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/outcome-vs-intent/</guid>
+        
+        <category>R</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+      <item>
+        <title>xG Based Infographics</title>
+        <description>&lt;p&gt;Posting sums of xG over the game is a common practice on Twiiter. And it’s wrong. Probabilities are weird and just summing them is over simplifying it.&lt;/p&gt;
+
+&lt;p&gt;I have put together an xG based inforgraphic of a game. This is created after simulating the sequence of shots and the xG of each many many times over, recording each shot as a goal or not based on the simulation, and doing aggregations and rolling sums of the simulated goals.&lt;/p&gt;
+
+&lt;p&gt;This is not meant to be an easy to digest, Twitter friendly, kind of viz. That’s why I’m not calling it a viz. My objective is to get viewers to appreciate the nuance to using xG to predicting game results, and in general the nuance behind working with probabilities. xG totals and timelines is clearly terrific to get engagement on social media but you may not want to use it like that at your job. You don’t recruit players based on their pass completion percentage either, do you?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/thecomeonman/xGInfographics&quot;&gt;Full post here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/xGInfographics/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/xGInfographics/</guid>
+        
+        <category>R</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+        <category>Visualisation</category>
+        
+      </item>
+    
+      <item>
+        <title>POV</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/thecomeonman/status/1310564531664429057&quot;&gt;Another video of Thiago’s passing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/thecomeonman/status/1379404586973298691&quot;&gt;Aguero’s EPL career&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/thecomeonman/POV&quot;&gt;Repository here with code&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/pov/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/pov/</guid>
+        
+        <category>R</category>
+        
+        <category>Code</category>
+        
+        
+        <category>Visualisation</category>
+        
+      </item>
+    
+      <item>
+        <title>Coda Bonito</title>
+        <description>&lt;p&gt;An R library that has some football analysis and visualisation helper functions. Some examples below -&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Plot sonars&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Performance lanes&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pitch control&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotSonar-1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fStripChart-1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fPlotPitchControl-1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;xG build up&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Football pitch&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Radars&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fXgBuildUpComparison-1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/theme_pitch-1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/thecomeonman/CodaBonito&quot;&gt;Repository here with code&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Apr 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/coda-bonito/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/coda-bonito/</guid>
+        
+        <category>R</category>
+        
+        <category>Code</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+      <item>
+        <title>Player Profile Visualisation</title>
+        <description>&lt;p&gt;Data dense scouting report of players&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Aug 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/player-profile-viz/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/player-profile-viz/</guid>
+        
+        <category>R</category>
+        
+        
+        <category>Football</category>
+        
+        <category>Visualisation</category>
+        
+      </item>
+    
+      <item>
+        <title>xPo</title>
+        <description>&lt;p&gt;An framework to quantify the contributions of players who aren’t the ones registering assists or scoring goals.&lt;/p&gt;
+
+&lt;p&gt;This concept and the dashboard won an honourable mention at the Seattle Sounders Analytics Competition 2020.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thecomeonman.github.io/xPo&quot;&gt;A post explaining how it works&lt;/a&gt; with some EPL teams and players analysed&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thecomeonman.github.io/xPoDashboard&quot;&gt;A dashboard which you could use to analyse a team&lt;/a&gt; built on data from Barcelona’s 2008-09 season data from Statsbomb&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 May 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/xPo/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/xPo/</guid>
+        
+        <category>R</category>
+        
+        <category>D3js</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+      <item>
+        <title>Player Similarity Using Aggregated Data</title>
+        <description>&lt;p&gt;Built a model to identify players with similar or better profiles. Built an interactive visualisation around it to understand various aspects of the player better. &lt;a href=&quot;https://thecomeonman.github.io/PlayerSimilarityFromAggregatedData&quot;&gt;Original post here&lt;/a&gt;.
+in which I analyse multiple players amongst the transfer rumours at the point and anecdotally validate the model with some of the results that show up, eg. Fernandinho’s list has pretty much every player whom Guardiola has either played in the same position earlier or was rumoured to be interested in buying - Alcantara, Jorginho, Busquets, and Rodri, amongst others who have similar playing styles.&lt;/p&gt;
+
+&lt;p&gt;I also posted &lt;a href=&quot;https://twitter.com/thecomeonman/status/1306654311661760512&quot;&gt;this Twitter thread&lt;/a&gt; for some transfers during the summer transfer window of 2020.&lt;/p&gt;
+
+&lt;p&gt;I also posted my attempt at finding replacements for Messi and Suarez &lt;a href=&quot;https://github.com/thecomeonman/Replacing-Suarez-and-Messi&quot;&gt;here&lt;/a&gt; around the 2020 summer transfer window. Of course, Dybala came on that list -&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/thecomeonman/Replacing-Suarez-and-Messi/master/Messi_Dybala_1920_1920.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/player-similarity-from-aggregated-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/player-similarity-from-aggregated-data/</guid>
+        
+        <category>R</category>
+        
+        <category>D3js</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+      <item>
+        <title>Measuring Defensive Interactions</title>
+        <description>&lt;p&gt;Used tracking data to quantify off ball defensive activity, possibly one of the first methods to do so.&lt;/p&gt;
+
+&lt;p&gt;This method was:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vimeo.com/533973203&quot;&gt;Presented at the Stats Preform Pro Forum 2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Covered on a &lt;a href=&quot;https://www.youtube.com/watch?v=Imt8p7ZgnZQ&quot;&gt;Friends of Tracking talk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Covered in an &lt;a href=&quot;https://spacespacespaceletter.com/whats-tackles-defense-is-about-denying-space/&quot;&gt;article in SpaceSpaceSpace&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Covered in an &lt;a href=&quot;http://analyticsfc.co.uk/blog/2021/04/26/quantifying-defence-pass-prevention-and-shot-prevention/&quot;&gt;article in Analytics FC Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 15 Feb 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/defensive-interactions/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/defensive-interactions/</guid>
+        
+        <category>R</category>
+        
+        <category>Methodology</category>
+        
+        
+        <category>Football</category>
+        
+      </item>
+    
+  </channel>
+</rss>
