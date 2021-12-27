@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://0.0.0.0:4000/about",
     "title": "About",
-    "body": "Hello. I'm a full stack data scientist with over ten years of experience working on a wide variety of problems, domains, environments, and with teams and clients from across the world. This website lists things that have kept me busy. Get in TouchTwitter Github e-mail: mail dot thecomeonman at gmail "
+    "body": "Hello. I'm a data scientist with over ten years of experience working on a wide variety of problems, domains, environments, and with teams and clients from across the world. I also know some other tech and programming but not enough to figure out how to get the footer to stick to the bottom of this page. This website lists things that have kept me busy. And the footer, of course. Here's a good place to get started with all that's there here. Get in TouchTwitter Github e-mail: mail dot thecomeonman at gmail "
     }, {
     "id": 2,
     "url": "http://0.0.0.0:4000/categories",
