@@ -12,4 +12,4 @@ hidden: false
 
 Some interesting and useful visualisation helper functions for time series data.
 
-[Code here](https://github.com/thecomeonman/ggTimeSeries))
+[Code here](https://github.com/thecomeonman/ggTimeSeries)

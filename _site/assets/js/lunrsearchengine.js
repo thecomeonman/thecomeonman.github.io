@@ -88,7 +88,7 @@ var documents = [{
     "id": 17,
     "url": "http://0.0.0.0:4000/ggTimeSeries/",
     "title": "ggTimeSeries",
-    "body": "2019/06/01 - Some interesting and useful visualisation helper functions for time series data. Code here) "
+    "body": "2019/06/01 - Some interesting and useful visualisation helper functions for time series data. Code here "
     }, {
     "id": 18,
     "url": "http://0.0.0.0:4000/event-spatial-similarities/",
