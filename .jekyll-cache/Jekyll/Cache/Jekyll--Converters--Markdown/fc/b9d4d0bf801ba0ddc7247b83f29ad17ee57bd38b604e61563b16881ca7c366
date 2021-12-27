@@ -1,0 +1,11 @@
+I"Æ<p>Built a model to identify similar player or team styles depending on the way passes are made and received.</p>
+
+<p>Amongst other things, I used it to <a href="https://thecomeonman.github.io/SpursBenficaSimilarityByLiverpool">evaluate whether Liverpool choosing to practice against Benfica for their UCL 2019 final against Spurs made sense</a>. The same method can be extended to compare and identify similar playing styles for any other team.</p>
+
+<p>Some other applications of this model:</p>
+<ul>
+  <li><a href="https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/PlayerRoles">Deriving player roles</a></li>
+  <li><a href="https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/SimilarPlayers.html">Finding players in similar roles - detailed version</a></li>
+  <li><a href="https://thecomeonman.github.io/SpatialSimilaritiesBetweenPlayers/TeamHighLevel201819/ManCity.html">Finding players in similar roles - short version</a></li>
+</ul>
+:ET

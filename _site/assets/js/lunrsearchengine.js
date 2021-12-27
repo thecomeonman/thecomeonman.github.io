@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://0.0.0.0:4000/",
     "title": "Home",
-    "body": "      Featured:                                                                       POV                  :         An R library with some high and low level functions for 3D geometry in a ggplot2 compatible fashion:                                                                                                                                                                                                 Measuring Defensive Interactions                  :         A model to quantify the impact of a player on preventing goals, passes, and carries from happening. :                                                                                                                                                                               RAO - Road Accessibility Optimiser                  :         An R-Shiny based tool for solving the warehouse problem:                                                                                                                                         All Projects:                                 Measuring Press Resistance              :       Measuring successful execution under pressure and comparing it to a baseline:                                                                                                                         Predicting Transfer Successes              :       Trying to predict successful transfers using VAEP:                                                                                                                         Intent vs. Outcome Based Models              :       Most models seem to be outcome based. What changes if try to incorporate intent?:                                                                                                                         xG Based Infographics              :       Understanding how to use xG instead of just summing it up:                                                                                                                         Coda Bonito              :       An R library for football analytics which offers visualisations, simple models, and other things:                                                                                                                         Player Profile Visualisation              :       Data dense scouting report of players:                                                                                                        &laquo; Prev       1        2      Next &raquo; "
+    "body": "      Featured:                                                                 POV                  :         An R library with some high and low level functions for 3D geometry in a ggplot2 compatible fashion:                                                                                                                                                                                                 Measuring Defensive Interactions                  :         A model to quantify the impact of a player on preventing goals, passes, and carries from happening. :                                                                                                                                                                                                             RAO - Road Accessibility Optimiser                  :         An R-Shiny based tool for solving the warehouse problem:                                                                                                                                         All Projects:                                 Predicting Transfer Successes              :       Trying to predict successful transfers using VAEP:                                                                                                                         Intent vs. Outcome Based Models              :       Most models seem to be outcome based. What changes if try to incorporate intent?:                                                                                                                         xG Based Infographics              :       Understanding how to use xG instead of just summing it up:                                                                                                                         Coda Bonito              :       An R library for football analytics which offers visualisations, simple models, and other things:                                                                                                                         Player Profile Visualisation              :       Data dense scouting report of players:                                                                                                                         xPo              :       A model to quantify the impact of a player's actions beyond just goals and assists. :                                                                                                        &laquo; Prev       1        2        3      Next &raquo; "
     }, {
     "id": 4,
     "url": "http://0.0.0.0:4000/robots.txt",
@@ -31,9 +31,9 @@ var documents = [{
     "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Projects:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 6,
-    "url": "http://0.0.0.0:4000/measuring-press-resistance/",
-    "title": "Measuring Press Resistance",
-    "body": "2021/09/01 - We build a model to predict how likely an average player is to successfully perform the action of their choice. Think of it as having an xWhateverTheyAreDoing model. Next we use it for the actions of these players when they were under pressure. By comparing how often specific players executed an action successfully compared to the model estimated probabilities of them executing their actions successfully, we can find out players that are good at escaping pressures, and so on. Full post here "
+    "url": "http://0.0.0.0:4000/page3/",
+    "title": "Home",
+    "body": "{% if page. url == “/” %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All Projects:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 7,
     "url": "http://0.0.0.0:4000/predicting-transfer-successes/",
@@ -81,11 +81,36 @@ var documents = [{
     "body": "2020/02/15 - Used tracking data to quantify off ball defensive activity, possibly one of the first methods to do so. This method was:  Presented at the Stats Preform Pro Forum 2021 Covered on a Friends of Tracking talk Covered in an article in SpaceSpaceSpace Covered in an article in Analytics FC Blog"
     }, {
     "id": 16,
+    "url": "http://0.0.0.0:4000/passing-sonar-redesigned/",
+    "title": "Passing Sonars Redesigned",
+    "body": "2019/08/01 - Full post here You can build a similar visualisation from Coda Bonito "
+    }, {
+    "id": 17,
+    "url": "http://0.0.0.0:4000/ggTimeSeries/",
+    "title": "ggTimeSeries",
+    "body": "2019/06/01 - Some interesting and useful visualisation helper functions for time series data. Code here) "
+    }, {
+    "id": 18,
+    "url": "http://0.0.0.0:4000/event-spatial-similarities/",
+    "title": "Event spatial similarities",
+    "body": "2019/06/01 - Built a model to identify similar player or team styles depending on the way passes are made and received. Amongst other things, I used it to evaluate whether Liverpool choosing to practice against Benfica for their UCL 2019 final against Spurs made sense. The same method can be extended to compare and identify similar playing styles for any other team. Some other applications of this model:  Deriving player roles Finding players in similar roles - detailed version Finding players in similar roles - short version"
+    }, {
+    "id": 19,
+    "url": "http://0.0.0.0:4000/CURD/",
+    "title": "CURD: Clustering using recursive division",
+    "body": "2018/12/01 - We consider the problem of clustering categorical datasets, with a view to arrive at simple, easily interpretable clusters. We propose CURD, a recursive partitioning algorithm that expresses clusters as leaf nodes of a decision tree. Link to paper "
+    }, {
+    "id": 20,
+    "url": "http://0.0.0.0:4000/scraping-house-rentals/",
+    "title": "Scraping house rentals",
+    "body": "2018/09/01 - The script will compile them in one place on a Google sheet. Saves you time on hunting across multiple websites. And it’s a fun dataset to play with! Code here) "
+    }, {
+    "id": 21,
     "url": "http://0.0.0.0:4000/montek/",
     "title": "Montek",
     "body": "2018/03/01 - A very flexible and extendible tool which can be used in a browser to create and run your own Monte Carlo simulations. Repository here with code "
     }, {
-    "id": 17,
+    "id": 22,
     "url": "http://0.0.0.0:4000/rao/",
     "title": "RAO - Road Accessibility Optimiser",
     "body": "2017/09/01 - A tool which can be used in a browser to maximise the accessibility of charging stations with the minimum number of charging stations over a given road network. You can use it for maximising the accessibility of anything else though, doesn’t have to be just charging stations. Repository here with code "
