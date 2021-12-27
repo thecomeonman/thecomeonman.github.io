@@ -4,7 +4,7 @@ title:  "Event spatial similarities"
 author: thecomeonman
 categories: [ Football, Model ]
 tags: [ R, Methodology ]
-image: assets/images/posts/pov/SpatialSimilarity.png
+image: assets/images/posts//event-spatial-similarities/SpatialSimilarity.png
 description: "And using them in various ways"
 featured: false
 hidden: false
