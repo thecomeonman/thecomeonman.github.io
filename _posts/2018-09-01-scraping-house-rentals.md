@@ -2,7 +2,7 @@
 layout: post
 title:  "Scraping house rentals"
 author: thecomeonman
-categories: [ urban policy ]
+categories: [ Urban policy ]
 tags: [ R, Tool, Code ]
 image: "https://raw.githubusercontent.com/thecomeonman/HouseLeadsAutomation/master/Screenshots/SheetExample.png"
 description: "A script to scrape data from multiple house rental websites"

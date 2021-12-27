@@ -2,7 +2,7 @@
 layout: post
 title:  "Player Similarity Using Aggregated Data"
 author: thecomeonman
-categories: [ Football ]
+categories: [ Football, Model ]
 tags: [ R, D3js, Methodology ]
 image: assets/images/posts/player-similarity-from-aggregated-data/dashboard.gif
 description: "Finding similar players using match level aggregated data, such as passes attempted during the game"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Passing Sonars Redesigned"
 author: thecomeonman
-categories: [ football, visualisation ]
+categories: [ Football, Visualisation ]
 tags: [ R, Methodology ]
 image: "https://github.com/thecomeonman/PassingSonarAlternative/blob/master/69334.217/plotOverallSonar.png"
 description: "A more informative, better visualisation"

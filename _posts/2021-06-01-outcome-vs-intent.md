@@ -2,7 +2,7 @@
 layout: post
 title:  "Intent vs. Outcome Based Models"
 author: thecomeonman
-categories: [ Football ]
+categories: [ Football, Model ]
 tags: [ R, Methodology ]
 image: "https://thecomeonman.github.io/IntentVsOutcome/README_files/figure-markdown_strict/IntentIllustrationDifferencePC-1.png"
 description: "Most models seem to be outcome based. What changes if try to incorporate intent?"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Predicting Transfer Successes"
 author: thecomeonman
-categories: [ Football ]
+categories: [ Football, Model ]
 tags: [ R, Methodology ]
 image: "https://raw.githubusercontent.com/thecomeonman/PredictingTransferSuccesses/master/README_files/figure-markdown_strict/graph_viz_4513451345-1.png"
 description: "Trying to predict successful transfers using VAEP"

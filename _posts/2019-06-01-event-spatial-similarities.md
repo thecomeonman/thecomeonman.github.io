@@ -2,7 +2,7 @@
 layout: post
 title:  "Event spatial similarities"
 author: thecomeonman
-categories: [ football, model ]
+categories: [ Football, Model ]
 tags: [ R, Methodology ]
 image: assets/images/posts/pov/SpatialSimilarity.png
 description: "And using them in various ways"

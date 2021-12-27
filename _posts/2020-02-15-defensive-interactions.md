@@ -2,7 +2,7 @@
 layout: post
 title:  "Measuring Defensive Interactions"
 author: thecomeonman
-categories: [ Football ]
+categories: [ Football, Model ]
 tags: [ R, Methodology ]
 image: assets/images/posts/defensive-interactions/pNIVMapsMarking.png
 description: "A model to quantify the impact of a player on preventing goals, passes, and carries from happening."
