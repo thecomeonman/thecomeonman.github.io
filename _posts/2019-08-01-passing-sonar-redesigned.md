@@ -10,6 +10,8 @@ featured: false
 hidden: false
 ---
 
+A more informative, better visualisation to describe passing tendencies and abilities.
+
 [Full post here](https://github.com/thecomeonman/PassingSonarAlternative)
 
 You can build a similar visualisation from [Coda Bonito](https://github.com/thecomeonman/CodaBonito)

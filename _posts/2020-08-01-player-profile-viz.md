@@ -10,4 +10,4 @@ featured: false
 hidden: false
 ---
 
-Data dense scouting report of players
+Data dense scouting report of players. Some more samples [here](https://github.com/thecomeonman/PlayerProfileVizes).
