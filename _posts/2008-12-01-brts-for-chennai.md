@@ -4,7 +4,7 @@ title:  "COMeTS: Chennai Omnibus Metropolitan Transport System"
 author: thecomeonman
 categories: [ Urban policy ]
 tags: [ White paper ]
-image: assets/images/posts/pov/phase_rollout.png
+image: assets/images/posts/brts-for-chennai/phase_rollout.png
 description: "A pre-feasibility study for a bus rapid transport system in Chennai"
 featured: false
 hidden: false
